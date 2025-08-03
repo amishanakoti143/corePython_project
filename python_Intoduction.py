@@ -1,5 +1,9 @@
 # Python_Introduction_and_Setup.py
-'''-----------   Topic: Python Introduction and Setup----------------------'''
+Topic: Python Introduction and Setup.
+Author: Amisha Nakoti
+Date :  03-08-2025
+
+'''----------- Python Introduction and Setup----------------------'''
 
 # ---------------------------
 # What is Python?
@@ -21,11 +25,17 @@
 #-----------------------------------------------------------------------
 
 #---------------------------------------------
-# It is used for -
-        #    1-Web development (server side).
-        #    2-software development.
-        #    3-Mathematics   .
-        #    4-System scripting .
+# It is used for -   #   Web development
+                     #   Data analysis
+                     #   Machine learning
+                     #   Automation
+                     #   Scripting
+                     #   Game development
+                     #   App development
+                     #   Data visualization
+                     #   IoT
+                     #   AI & NLP
+     
 
 # ---------------------------
 # How to Install Python
@@ -44,11 +54,10 @@
 # - Jupyter Notebook (best for data science)
 # - IDLE (comes built-in with Python)
 
-# ---------------------------
-# First  Code
+# -------------------------
 # ---------------------------
 print("Hello India!")  
 
-print("hlw World")
+print(" I am Amisha")
 
 
