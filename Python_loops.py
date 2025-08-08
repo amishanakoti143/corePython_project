@@ -89,3 +89,16 @@ for i in range(3):
     print(i)
 else:
     print("Loop finished successfully")
+
+#------------------------Loop_Questions--------------------------------------------------------
+
+'''print counting 1 to 10'''
+x=1
+while x<=10:       #by while loop
+    print(x)
+    x+=1
+
+#----------------------------------------------
+for i in range(1,11 ):    # for loop
+    print(i)
+
