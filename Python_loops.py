@@ -102,7 +102,6 @@ while x<=10:       #by while loop
 for i in range(1,11 ):    # for loop
     print(i)
 
-
 '''Print "hello World" ten times by for and while loop '''
 x=1
 while x<=10:
@@ -111,3 +110,15 @@ while x<=10:
 #----------------------
 for i in range(1,11):
     print("Hello World")
+
+'''print counting from 10 to 20 by for and while loop'''
+x=10
+while x<=20:
+    print(x)
+    x+=1
+#-------
+for i in range(10,21):
+    print(i)
+
+
+
