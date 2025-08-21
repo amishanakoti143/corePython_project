@@ -90,7 +90,7 @@ for i in range(3):
 else:
     print("Loop finished successfully")
 
-#------------------------Loop_Questions--------------------------------------------------------
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Loop_Questions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 '''print counting 1 to 10'''
 x=1
@@ -160,6 +160,16 @@ for i in range(1,21):
 for i in range (10,41):
     if i%3==0 and i%2==0:
         print(i)
+
+
+#count all even number from 10 to 25
+
+c=0
+for i in range (10,26):
+    if i%2==0:
+        c+=1
+print(c)
+
 
 
 
