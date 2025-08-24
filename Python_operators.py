@@ -4,7 +4,7 @@ Author: Amisha Nakoti
 
 """
 
-# ---------------------------
+# -------------------------
 # What is an Operator?
 # ---------------------------
 # Operators are symbols that perform operations on variables and values.
@@ -104,5 +104,6 @@ print("a is c:", a is not c)   # True
 x = [1, 2, 3, 4, 5]
 print("3 in nums:", 3 in x)
 print("6 not in nums:", 6 not in x)
+
 
 
