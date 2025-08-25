@@ -186,6 +186,13 @@ while a<= num:
     a=a+1
 print("factorial is : ",fact)
 
+# Sum of all first 30 number
+
+s=0
+for i in range (1,31):
+    s+=i
+print(s)
+
 
 
 
