@@ -21,7 +21,7 @@ Author: Amisha Nakoti
 
 # ------------------------------
 # 1️⃣. Arithmetic Operators
-# ---------------------------
+# ------------------------------
 a = 10
 b = 3
 print("Addition:", a + b)         # 13
@@ -104,6 +104,7 @@ print("a is c:", a is not c)   # True
 x = [1, 2, 3, 4, 5]
 print("3 in nums:", 3 in x)
 print("6 not in nums:", 6 not in x)
+
 
 
 
