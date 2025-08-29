@@ -88,3 +88,12 @@ else:
 
 ''' Write a program to check whether a number is positive, negative, or zero using nested if.''' 
 
+x=float(input("enter no : "))
+if x>0:
+    print("positive",x)
+elif x<0:
+    print("negative",x)
+else:
+    print("zero",x)    
+
+
