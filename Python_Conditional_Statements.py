@@ -84,3 +84,7 @@ elif income>700000:
           print(income*0.05)          
 else:
      print("no tax")   
+#--------------------------------------------------
+
+''' Write a program to check whether a number is positive, negative, or zero using nested if.''' 
+
