@@ -1,4 +1,4 @@
-# Python_Conditional_Statements.py
+ # Python_Conditional_Statements.py
 """
 Topic: Conditional Statements in Python
 Author: Amisha Nakoti  
@@ -96,4 +96,9 @@ elif x<0:
 else:
     print("zero",x)    
 
+'''Write a program to categorize temperature: 
+                                          <0 = Freezing 
+                                          0-10 = Cold 
+                                         11-25 = Moderate 
+                                           25 = Hot '''
 
