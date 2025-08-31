@@ -120,31 +120,32 @@ else:
 
 x =int(input("enter month no: "))
 if x==1:
-    print("january")
+    print("January")
 elif x==2:
-    print("feb")
+    print("February")
 elif x==3:
-    print("march")
+    print("March")
 elif x==4:
-    print("april")
+    print("April")
 elif x==5:
-    print("may")
+    print("May")
 elif x==6:
-    print("june")
+    print("June")
 elif x==7:
-    print("july")
+    print("July")
 elif x==8:
-    print("aug")
+    print("August")
 elif x==9:
-    print("sep")
+    print("September")
 elif x==10:
-    print("oct")
+    print("October")
 elif x==11:
-    print("nov")
+    print("November")
 elif x==12:
-    print("dec")
+    print("December")
 else:
     print("error")    
+
 
 
 
