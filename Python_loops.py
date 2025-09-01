@@ -197,6 +197,9 @@ print(s)
 ''' Write a Python program using a for loop to print all odd numbers 
    from 50 to 31 in descending order.'''
 
+for i in range(50,31,-1):
+   if i%2!=0:
+      print(i)
 
 
 
