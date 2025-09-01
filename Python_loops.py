@@ -193,6 +193,9 @@ for i in range (1,31):
     s+=i
 print(s)
 
+#-----------------------------------
+''' Write a Python program using a for loop to print all odd numbers 
+   from 50 to 31 in descending order.'''
 
 
 
