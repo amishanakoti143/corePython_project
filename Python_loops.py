@@ -165,7 +165,7 @@ for i in range (10,41):
     if i%3==0 and i%2==0:
         print(i)
 
-
+#----------------------
 #count all even number from 10 to 25 
 
 c=0
@@ -174,7 +174,7 @@ for i in range (10,26):
         c+=1
 print(c)
 
-
+#---------------------------------
 #Write a program to find the factorial of a number using a while loop and for loop.
 
 fact=1
@@ -185,7 +185,7 @@ while a<= num:
     fact=fact*a
     a=a+1
 print("factorial is : ",fact)
-
+#------------------------
 # Sum of all first 30 number
 
 s=0
@@ -201,6 +201,8 @@ for i in range(50,31,-1):
    if i%2!=0:
       print(i)
 
+'''Write a Python program using a for loop to print all even numbers 
+   from 50 to 31 in descending order'''
 
 
 
