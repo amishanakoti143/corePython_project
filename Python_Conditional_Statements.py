@@ -146,6 +146,7 @@ elif x==12:
 else:
     print("error")    
 
+#------------------------------------------
 '''Take an integer input.
        Print "low" if it's between 1 and 20
        Print "mid" if it's between 21 and 30
@@ -158,5 +159,6 @@ elif x>=21 and x<=30:
     print("mid")
 else:
     print("high")    
+
 
 
