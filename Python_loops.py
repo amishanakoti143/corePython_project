@@ -274,6 +274,8 @@ for i in range(100,24,-1):
     print(i)
 
 
+#--------------------------------------------------------------------------
+'''Write a Python program to print the squares of numbers from 1 to 20 '''
 
 
 
