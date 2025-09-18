@@ -292,7 +292,8 @@ for i in range(1,y+1):
      print(x)
 
 
-''' cube of 1 to 20'''  
+''' cube of numbers from 1 to 20'''  
+
 
 
 
