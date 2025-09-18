@@ -291,9 +291,11 @@ for i in range(1,y+1):
      x=i**2
      print(x)
 
-
+#-----------------------------------
 ''' cube of numbers from 1 to 20'''  
-
+for i in range(1,21):
+     x=i**3
+     print(x)
 
 
 
