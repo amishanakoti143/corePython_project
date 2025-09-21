@@ -4,7 +4,7 @@ Topic: Conditional Statements in Python
 Author: Amisha Nakoti  
 """
 
-# ---------------------------
+# ----------------------------
 # What are Conditional Statements?
 # ---------------------------
 # Conditional statements are used to perform different actions based on different conditions.
@@ -159,6 +159,7 @@ elif x>=21 and x<=30:
     print("mid")
 else:
     print("high")    
+
 
 
 
