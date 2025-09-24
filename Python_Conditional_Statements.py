@@ -182,6 +182,11 @@ for i in range(0,21):
     print(i)
 
 
+#---------------------------------------------
+''' Print numbers from 1 to 20.
+         Skip numbers between 8 and 12'''
+
+
 
 
 
