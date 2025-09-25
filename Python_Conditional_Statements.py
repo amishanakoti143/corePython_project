@@ -190,6 +190,10 @@ for i in range(1,21):
     if i>=8 and i<=12:
        continue
     print(i)
+#                   ---------OR
+
+
+
 
 
 
