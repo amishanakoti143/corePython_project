@@ -191,6 +191,11 @@ for i in range(1,21):
        continue
     print(i)
 #                   ---------OR
+for i in range(1, 21):
+    if 8 <= i <= 12:
+        continue
+    print(i)
+
 
 
 
