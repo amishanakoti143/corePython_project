@@ -1,7 +1,7 @@
 # Topic: Basic Syntax and Print Statement
 # Author: Amisha Nakoti .
 
-#------------------------------------------------------------------------
+#------------------------------------------------------------------------ 
 # Python Syntax Basics
 # ---------------------------
 # Python uses indentation (whitespace) to define blocks of code.
@@ -54,4 +54,5 @@ multi-line comment or docstring.
 
 '''This is a
 multi-line comment or 
+
        docstring'''
