@@ -5,7 +5,7 @@ Author: Amisha Nakoti
 
 """
 
-# --------------------------------------------------------------------
+# -----------------------------------------------------------------
 # What is a Variable?
 # ------------------
 # It is a short name of any values .
@@ -68,3 +68,4 @@ s = "10"
 num = int(s)  # convert string to integer
 
 print(num + 5)    # Output: 15
+
