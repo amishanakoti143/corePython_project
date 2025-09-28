@@ -35,3 +35,7 @@ print("Substring [:3]:", word[:3])     # Pyt
 print("Substring [2:]:", word[2:])     # thon
 
 
+
+
+
+
