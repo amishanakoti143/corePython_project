@@ -42,9 +42,9 @@ b = "World"
 print(a + " " + b)   # Concatenation
 print(a * 3)         # Repetition
 
-# ---------------------------
+# -----------------------------
 # 5. String Functions / Methods
-# ---------------------------
+# -----------------------------
 text = "   Python Programming   "
 
 print("Uppercase:", text.upper())
@@ -78,6 +78,7 @@ print(f"My name is {name} and I am {age} years old.")
 
 # Using format()
 print("My name is {} and I am {} years old.".format(name, age))
+
 
 
 
