@@ -69,7 +69,7 @@ print("Is alphanumeric?", alnum.isalnum())
 
 # -------------------------
 # 7. String Formatting
-# --------------------------
+# -------------------------
 name = "Alice"
 age = 25
 
@@ -78,6 +78,7 @@ print(f"My name is {name} and I am {age} years old.")
 
 # Using format()
 print("My name is {} and I am {} years old.".format(name, age))
+
 
 
 
