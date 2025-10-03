@@ -3,7 +3,6 @@
 Topic: Strings in Python & String Manipulation
 Author: Amisha Nakoti
 """
-
 # ---------------------------
 # 1. What is a String?
 # ---------------------------
@@ -102,6 +101,7 @@ for char in "Hello":
 # ---------------------------
 s = "Python"
 print("Reversed:", s[::-1])
+
 
 
 
