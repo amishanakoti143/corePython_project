@@ -158,7 +158,7 @@ for i in range(1,21):
     if i%2!=0:
         print("Odd no : ",i)
 
-#to print all number which is divisible by 3 and 2 
+#10 to 40 print all number which is divisible by 3 and 2 
 
 for i in range (10,41):
     if i%3==0 and i%2==0:
@@ -304,6 +304,7 @@ y=int(input(" Enter no :- "))
 for i in range(1,y+1):
      x=i**3
      print(x)
+
 
 
 
