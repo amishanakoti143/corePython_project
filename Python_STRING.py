@@ -112,6 +112,10 @@ def is_palindrome(word):
 print("Is 'madam' a palindrome?", is_palindrome("madam"))
 print("Is 'python' a palindrome?", is_palindrome("python"))
 
+"""_____________________________________________________________________________________________________
+                              Questions related Strig
+  -------------------------------------------------------------------------------------------------------"""
+
 
 
 
