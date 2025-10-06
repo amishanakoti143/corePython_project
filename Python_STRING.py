@@ -103,6 +103,13 @@ s = "Python"
 print("Reversed:", s[::-1])
 
 
+# ---------------------------
+# 11. Palindrome Check (Practice)
+# ---------------------------
+def is_palindrome(word):
+    return word == word[::-1]
+
+
 
 
 
