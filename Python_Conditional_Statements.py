@@ -199,6 +199,9 @@ for i in range(1, 21):
 #------------------------------------------------
 
 
+x=int(input("Enter no-:   "))
+y=x%10
+print("this is the last digit:-",y)
 
 
 
