@@ -17,7 +17,7 @@ age = 20
 if age >= 18:
     print("You are eligible to vote.")
 
-# ---------------------------
+# --------------------------
 # if-else Statement
 # ---------------------------
 num = 5
@@ -203,6 +203,7 @@ for i in range(1, 21):
 x=int(input("Enter no-:   "))
 y=x%10
 print("this is the last digit:-",y)
+
 
 
 
