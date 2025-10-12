@@ -116,6 +116,11 @@ print("Is 'python' a palindrome?", is_palindrome("python"))
                               Questions related Strig
   -------------------------------------------------------------------------------------------------------"""
 
+''' count g in  x '''
+
+
+
+
 
 
 
