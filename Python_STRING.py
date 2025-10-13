@@ -122,8 +122,12 @@ y=x.count("g")
 print(y)
 
 
-'''4.  show the lenth of the text without space
-         x="python is a programming language"  '''
+''' show the lenth of the text without space  '''
+
+x="there is a mobile phone"
+y=len(x)-x.count(" ")
+print(y)
+
 
 
 
