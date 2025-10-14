@@ -127,6 +127,9 @@ print(y)
 x="there is a mobile phone"
 y=len(x)-x.count(" ")
 print(y)
+#--------------------OR
+y=x.replace(" ","")
+print(len(y))
 
 
 
