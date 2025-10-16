@@ -131,6 +131,8 @@ print(y)
 y=x.replace(" ","")
 print(len(y))
 
+#--------------------------------------------------------------------------------
+
 '''  Write a Python program to convert a string to uppercase if its length > 5
    else to lowercase    '''
 x=input("Enter here :-  ")
@@ -138,6 +140,8 @@ if len(x)>=5:
     print(x.upper())
 else:
     print(x.lower())
+
+
 
 
 
