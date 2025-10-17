@@ -170,6 +170,11 @@ y=x.replace("i","*")
 print(y)
 
 
+''' replece i with this "*" and rest of it print in capital'''
+
+x=input("enter word:").lower()
+y=x.replace("i","*")
+print(y.upper())
 
 
 
