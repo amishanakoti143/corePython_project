@@ -164,6 +164,10 @@ if x.startswith("a") and x.endswith("a"):
 else:
     print("no") 
 
+'''   replece i with this "*" '''
+x="India is a Incredible country".lower()
+y=x.replace("i","*")
+print(y)
 
 
 
