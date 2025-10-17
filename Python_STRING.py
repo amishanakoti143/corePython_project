@@ -143,11 +143,20 @@ else:
 
 ''' WAP by user input ,if name startwith "p","r","a" or "m" 
      then show "yes" else show "No"   '''
+
 x=input("enter word:")
 if x[0] in ("pram"):
     print("yes")
 else:
     print("no")
+
+''' WAP to check id name start and endswith "a" then show "yes" else "NO". '''
+x=input("enter name:")
+if x[0]=="a" and x[-1]=="a":
+    print("yes")
+else:
+    print("no")    
+
 
 
 
