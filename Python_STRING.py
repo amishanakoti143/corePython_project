@@ -187,11 +187,12 @@ z=x[-1].upper()
 a=x[1:-2].lower()
 print(y+a+z)
 
-
+#--------------------------------
 '''delete extraspace in x'''
 x="     python    "
 y=x.strip()
 print(y)
+
 
 
 
