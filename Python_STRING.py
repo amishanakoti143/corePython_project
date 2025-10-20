@@ -193,6 +193,9 @@ x="     python    "
 y=x.strip()
 print(y)
 
+x="Data ScIeNce"
+y=x.swapcase()
+print(y)
 
 
 
