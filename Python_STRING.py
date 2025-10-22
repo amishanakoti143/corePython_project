@@ -199,6 +199,13 @@ x="Data ScIeNce"
 y=x.swapcase()
 print(y)
 
+#-------------------------------------
+'''Print all numbers from x'''
+
+x="pr1i3n5c3444"
+for i in x:
+    if i.isdigit():
+        print(i,end="")
 
 
 
