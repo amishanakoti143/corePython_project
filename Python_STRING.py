@@ -193,11 +193,13 @@ x="     python    "
 y=x.strip()
 print(y)
 
-
+#------------------------------------------------------------------
 '''  convert Text from upper to lower and lower to upper ''' 
 x="Data ScIeNce"
 y=x.swapcase()
 print(y)
+
+
 
 
 
