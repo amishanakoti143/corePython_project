@@ -207,7 +207,8 @@ for i in x:
     if i.isdigit():
         print(i,end="")
 
-
+#---------------------------------------
+'' 'Write a python program to print all alphabet excluding "a" '''
 
 
 
