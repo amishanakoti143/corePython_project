@@ -209,6 +209,10 @@ for i in x:
 
 #---------------------------------------
 '' 'Write a python program to print all alphabet excluding "a" '''
+x="Ramayana"
+for i in x:
+    if i!="a":
+        print(i)
 
 
 
