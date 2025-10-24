@@ -214,6 +214,9 @@ for i in x:
     if i!="a":
         print(i)
 
+#              ---------------OR
+
+
 
 
 
