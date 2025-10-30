@@ -275,7 +275,12 @@ x="asDFgH5jK345REiS"
 for i in x:
     if i.isupper():
         print(i)
-
+#-----------------------------------------------------
+'''Print all elements which is written in small letter'''
+x="asDFgH5jK345REiS"
+for i in x:
+    if i.islower():
+        print(i)
 
 
 
