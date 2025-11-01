@@ -284,6 +284,7 @@ for i in x:
     if i.islower():
         print(i)
 
+'''count all the text from the string'''
 
 
 
