@@ -285,6 +285,15 @@ for i in x:
         print(i)
 
 '''count all the text from the string'''
+c=0
+x="App 234 le#@e  234"
+for i in x:
+    if i.isalpha():
+        
+        print(i,end="")
+        c+=1
+
+print("\nTotal mo of charactor",c)
 
 
 
