@@ -3,7 +3,7 @@
 Topic: Strings in Python & String Manipulation
 Author: Amisha Nakoti
 """
-# ---------------------------
+# --------------------------
 # 1. What is a String?
 # ---------------------------
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
@@ -308,6 +308,7 @@ for i in x:
         num+=1
 print("\nTotal charactor",txt)
 print("\nTotal numbrers",num)
+
 
 
 
