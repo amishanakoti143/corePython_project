@@ -309,6 +309,15 @@ for i in x:
 print("\nTotal charactor",txt)
 print("\nTotal numbrers",num)
 
+#---------------------------------------------
+'''count all the space  from the string'''
+x="App 234 le#@e " 
+sp=0
+for i in x:
+    if i.isspace():
+        sp+=1
+print("space :- ",sp)
+
 
 
 
