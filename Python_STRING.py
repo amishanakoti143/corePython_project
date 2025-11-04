@@ -318,7 +318,26 @@ for i in x:
         sp+=1
 print("space :- ",sp)
 
-
+#-----------------------------------------------
+'''count all number ,text ,special charactors'''
+x="App 234 le#@e " 
+txt=0
+num=0
+sp=0
+space=0
+for i in x:
+    if i.isalpha():
+        txt=txt+1
+    elif i.isdigit():
+        num=num+1
+    elif i.isspace():
+        space=space+1
+    else:
+        sp=sp+1
+print("Total numbers : ",num)
+print("Total text : ",txt)
+print("Total  : ",space)
+print("Total special char : ",sp)
 
 
 
