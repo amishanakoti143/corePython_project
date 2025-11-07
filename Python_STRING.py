@@ -361,6 +361,14 @@ for i in str:
         count=count+1
 print(" num of vowels :",count)
 
+#-----------------------------------------------
+
+''' find if input is special charactor'''
+x=input("_____")
+if  x.isalnum() :
+    print("okk")
+else:
+    print("special")
 
 
 
