@@ -5,7 +5,7 @@ Author: Amisha Nakoti
 """
 # --------------------------
 # 1. What is a String?
-# ---------------------------
+# --------------------------
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
 
 string1 = 'Hello'
@@ -369,6 +369,7 @@ if  x.isalnum() :
     print("okk")
 else:
     print("special")
+
 
 
 
