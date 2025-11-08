@@ -21,7 +21,7 @@ print(string3)
 # ---------------------------
 # 2. Accessing Characters in a String
 # ---------------------------
-word = "Python"
+word = "Python" 
 print("First character:", word[0])   # Indexing starts at 0
 print("Last character:", word[-1])  # Negative indexing
 
@@ -369,6 +369,7 @@ if  x.isalnum() :
     print("okk")
 else:
     print("special")
+
 
 
 
