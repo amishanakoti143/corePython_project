@@ -393,6 +393,11 @@ print(x[-8:-4:])
 #Arun
 print(x[-9:-5])
 
+# Extract last 3 alphabet and show in capital latter
+print(x[-3:].upper())
+
+#--------------------------------------------------------
+
 
 
 
