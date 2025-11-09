@@ -372,6 +372,18 @@ else:
 
 
 
+#--------------------------------------------------
+x="himachal Pradesh"
+#mach
+print(x[2:6])
+#desh
+print(x[-4:])
+#Hima
+print(x[0:4])
+#imac
+print(x[1:5])
+#rade
+print(x[-6:-2])
 
 
 
