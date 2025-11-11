@@ -2,7 +2,7 @@
 """
 Topic: Strings in Python & String Manipulation
 Author: Amisha Nakoti
-"""
+""" 
 # --------------------------
 # 1. What is a String?
 # --------------------------
@@ -405,6 +405,7 @@ y=x[0].upper()
 z=x[-1].upper()
 a=x[1:-2].lower()
 print(y+a+z)
+
 
 
 
