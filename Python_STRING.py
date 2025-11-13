@@ -418,6 +418,12 @@ for i in x:
     print(i," : Index No",a)
 
 
+'''find value with reverse index number '''
+
+for i in x:
+    a=x.index(i)-len(x)
+    print(i," : Index No",a)
+
 
 
 
