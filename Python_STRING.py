@@ -28,7 +28,7 @@ print("Last character:", word[-1])  # Negative indexing
 
 # ---------------------------
 # 3. String Slicing
-# ---------------------------
+# --------------------------- 
 print("Substring [0:4]:", word[0:4])   # Pyth
 print("Substring [:3]:", word[:3])     # Pyt
 print("Substring [2:]:", word[2:])     # thon
@@ -452,6 +452,7 @@ for i in x:
 
 
 #-----------------------------------------------------------
+
 
 
 
