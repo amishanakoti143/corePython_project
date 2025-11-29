@@ -10,7 +10,7 @@ ________________________________________________________________________________
 5-list allowed duplicate value.
 6-list are indexed.
 7-list support Multiple type of data  
-                          
+                           
                         ----------------------------------------
                         #how to create a blank list  
                           x=[]
@@ -256,6 +256,7 @@ SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
  
+
 
 
 
