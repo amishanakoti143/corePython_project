@@ -255,7 +255,9 @@ print(y)
 SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
- 
+
+
+
 
 
 
