@@ -167,7 +167,7 @@ x=["a","b","c","d"]
 y=[1,2,3,4,5]
 x.extend(y)
 print(x)                #['a', 'b', 'c', 'd', 1, 2, 3, 4, 5]
-#_______________________________________________________________________________  
+#_______________________________________________________________________________ 
 
 '''WAP to store all even number in list from 1 to 20'''
 x=[]
@@ -254,6 +254,7 @@ print(y)
 SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
+
 
 
 
