@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 GET-->  its extract values base of Keys from dict.
 kEY-->  Its return array where show entire keys of dictionary.
-VALUES-> Its return arry where show entire values from dict.
+VALUES-> Its return arry where show entire values from dict. 
 _________________________________________________________________________________________________________'''
 
 ''' how to create a dict.'''
@@ -32,4 +32,5 @@ ________________________________________________________________________________
 
 # print(D)
 # print(type(D))    #dict
+
 # print(len(D))     #4
