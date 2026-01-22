@@ -1,5 +1,5 @@
 '''_________________________________||  DICTIONARY   ||__________________________________________________'''
-
+ 
 '''DICTIONARY - Dictionary is a collection of non repitative elements it is always written with the pair of 
                 keys and values .
                and it also store multiple elements in dict.
@@ -34,3 +34,4 @@ ________________________________________________________________________________
 # print(type(D))    #dict
 
 # print(len(D))     #4
+
