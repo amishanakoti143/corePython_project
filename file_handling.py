@@ -4,7 +4,7 @@
     like opening,reading,writting and closing them.
     it allow us to store data permanently and 
     retrived it when needed
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------- 
 OPEN() -: function is used to established a connection with a file .
           
           MODE-> READ | WRITE | APPEND | 
@@ -82,4 +82,5 @@ a=(Append Mode):- open a file for writing ,appending new content
 # path="C:/Users/Shahid ali/Desktop/python_Notes.txt"
 # os.remove(path)
 # print("Done! \n deleted")
+
 
