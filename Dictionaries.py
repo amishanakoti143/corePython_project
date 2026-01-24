@@ -12,7 +12,7 @@
 5->  dict not allow duplicate keys .  
 6-.  it also support multiple typpe of Data.  
 _________________________________________________________________________________________________________
-
+ 
 GET-->  its extract values base of Keys from dict.
 kEY-->  Its return array where show entire keys of dictionary.
 VALUES-> Its return arry where show entire values from dict. 
@@ -34,5 +34,6 @@ ________________________________________________________________________________
 # print(type(D))    #dict
 
 # print(len(D))     #4
+
 
 
