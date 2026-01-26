@@ -84,3 +84,14 @@ a=(Append Mode):- open a file for writing ,appending new content
 # print("Done! \n deleted")
 
 
+'''______________________________________________________________________
+READ - In pyhton Read() function read the entire content of a file 
+      and return in a single string 
+----------------------------------------------------------------------
+READLINES- Readlines read all lines from a file and return them 
+          as a list of string'''
+
+'''_______________________________________________________________________________'''
+
+
+
