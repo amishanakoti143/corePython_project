@@ -19,21 +19,22 @@ VALUES-> Its return arry where show entire values from dict.
 _________________________________________________________________________________________________________'''
 
 ''' how to create a dict.'''
-# x={}
-# x=dict()
-# print(type(x))
+x={}
+x=dict()
+print(type(x))
 #-----------------------------------------------
 
 
-# D={"Brand":"TATA",
-#    "Model":"xyz",
-#    "Color":"Black",
-#    "year":2000}
+D={"Brand":"TATA",
+   "Model":"xyz",
+   "Color":"Black",
+   "year":2000}
 
-# print(D)
-# print(type(D))    #dict
+print(D)
+print(type(D))    #dict
 
-# print(len(D))     #4
+print(len(D))     #4
+
 
 
 
