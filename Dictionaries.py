@@ -5,7 +5,7 @@
                and it also store multiple elements in dict.
                written in curly brackets.
 
-1->  written in curly brackets with part of keys and values. 
+1->  written in curly brackets with part of keys and values.  
 2->  dict are ordered .
 3->  dict are mutable or changable .
 4->  dict are not indexed .   
@@ -34,6 +34,7 @@ print(D)
 print(type(D))    #dict
 
 print(len(D))     #4
+
 
 
 
