@@ -11,7 +11,7 @@
 4->  dict are not indexed .   
 5->  dict not allow duplicate keys .  
 6-.  it also support multiple typpe of Data.   
-_________________________________________________________________________________________________________
+________________________________________________________________________________________________________
  
 GET-->  its extract values base of Keys from dict.
 kEY-->  Its return array where show entire keys of dictionary.
@@ -81,6 +81,7 @@ for i in range(length):
     val=input("Enter Values :- ")
     dic[key]=val
 print(dic)
+
 
 
 
