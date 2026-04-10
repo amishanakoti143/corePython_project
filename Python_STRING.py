@@ -3,9 +3,9 @@
 Topic: Strings in Python & String Manipulation
 Author: Amisha Nakoti
 """ 
-# --------------------------
-# 1. What is a String? 
-# --------------------------
+# -------------------------
+# 1. What is a String?
+# -------------------------
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
 
 string1 = 'Hello'
