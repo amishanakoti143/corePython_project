@@ -10,7 +10,7 @@
 3->  dict are mutable or changable .
 4->  dict are not indexed .   
 5->  dict not allow duplicate keys.
-6-.  it also support multiple typpe of Data.   
+6-.  it also support multiple typpe of Data...
 ________________________________________________________________________________________________________
  
 GET-->  its extract values base of Keys from dict.
