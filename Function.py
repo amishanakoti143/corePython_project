@@ -96,9 +96,9 @@ square = lambda x: x * x
 print("Square of 6:", square(6))
 
 
-# ---------------------------
+# ------------------------
 # 9. Recursion in Functions
-# ---------------------------
+# -------------------------
 # A function that calls itself.
 def factorial(n):
     """Returns factorial of a number using recursion"""
