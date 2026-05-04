@@ -2,10 +2,10 @@
  
 '''DICTIONARY - Dictionary is a collection of non repitative elements it is always written with the pair of
                 keys and values.
-               and it also store multiple elements in dict...
+               and it also store multiple elements in dict..
                written in curly brackets. 
                                                                  
-1->  written in curly brackets with part of keys and values.
+1->  written in curly brackets with part of keys and values..
 2->  dict are ordered.
 3->  dict are mutable or changable .
 4->  dict are not indexed .   
